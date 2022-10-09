@@ -1,0 +1,11 @@
+/Users/tihon/RiderProjects/MindBoxTrial/GeometryTest/bin/Debug/GeometryTest.dll
+/Users/tihon/RiderProjects/MindBoxTrial/GeometryTest/bin/Debug/GeometryTest.pdb
+/Users/tihon/RiderProjects/MindBoxTrial/GeometryTest/bin/Debug/Geometry.dll
+/Users/tihon/RiderProjects/MindBoxTrial/GeometryTest/bin/Debug/nunit.framework.dll
+/Users/tihon/RiderProjects/MindBoxTrial/GeometryTest/bin/Debug/Geometry.pdb
+/Users/tihon/RiderProjects/MindBoxTrial/GeometryTest/bin/Debug/nunit.framework.xml
+/Users/tihon/RiderProjects/MindBoxTrial/GeometryTest/obj/Debug/GeometryTest.csproj.AssemblyReference.cache
+/Users/tihon/RiderProjects/MindBoxTrial/GeometryTest/obj/Debug/GeometryTest.csproj.CoreCompileInputs.cache
+/Users/tihon/RiderProjects/MindBoxTrial/GeometryTest/obj/Debug/GeometryTest.csproj.CopyComplete
+/Users/tihon/RiderProjects/MindBoxTrial/GeometryTest/obj/Debug/GeometryTest.dll
+/Users/tihon/RiderProjects/MindBoxTrial/GeometryTest/obj/Debug/GeometryTest.pdb

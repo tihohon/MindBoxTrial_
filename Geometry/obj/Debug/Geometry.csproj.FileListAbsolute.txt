@@ -1,0 +1,6 @@
+/Users/tihon/RiderProjects/MindBoxTrial/Geometry/bin/Debug/Geometry.dll
+/Users/tihon/RiderProjects/MindBoxTrial/Geometry/bin/Debug/Geometry.pdb
+/Users/tihon/RiderProjects/MindBoxTrial/Geometry/obj/Debug/Geometry.csproj.AssemblyReference.cache
+/Users/tihon/RiderProjects/MindBoxTrial/Geometry/obj/Debug/Geometry.csproj.CoreCompileInputs.cache
+/Users/tihon/RiderProjects/MindBoxTrial/Geometry/obj/Debug/Geometry.dll
+/Users/tihon/RiderProjects/MindBoxTrial/Geometry/obj/Debug/Geometry.pdb
